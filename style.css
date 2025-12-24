@@ -1,0 +1,20 @@
+#enemyStatus {
+  font-size: 14px;
+  color: #ff5555;
+  margin-top: 10px;
+}
+
+#office {
+  background: #050505;
+  padding: 10px;
+  text-align: center;
+  border-top: 2px solid #222;
+}
+
+#officeStatus {
+  font-size: 14px;
+}
+
+.light-on {
+  background: #333 !important;
+}
